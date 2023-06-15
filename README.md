@@ -16,7 +16,7 @@ In this Regex Tutorial, we will explore the validation of the email address regu
 - [Continued Development](#Continued-Development)
 - [License](#License)
 - [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
+
 
 # Overview
 
