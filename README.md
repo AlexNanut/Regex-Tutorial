@@ -4,7 +4,7 @@
 
 ## Description.
 In this Regex Tutorial, we will explore the validation of the email address regular expression (regex) featured in this tutorial: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. The tutorial offers a detailed breakdown and explanation of each component within the regex, making the validation process easily understandable. By completing this tutorial, you will enhance your understanding of how the regex operates to validate and verify the entry of a valid email address.
-**GitHub Gist: [Click Here](https://github.com/AlexNanut/Regex-Tutorial)**
+**GitHub Gist: [Click Here](https://gist.github.com/AlexNanut/836bead8d2de34dba6687fcbd01d437e)**
 
 ## Table of Contents:
 - [Overview](#Overview)
